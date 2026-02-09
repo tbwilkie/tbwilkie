@@ -1,4 +1,4 @@
-<h1>Hi, I'm Thomas! <br/><a href="https://www.linkedin.com/in/thomaswilkieusmc/" target="_blank" rel="noopener noreferrer">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Thomas! <br/><a href="https://www.linkedin.com/in/thomaswilkieusmc/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -21,4 +21,3 @@
 [<img align="left" alt="ThomasWilkie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/thomaswilkieusmc
-
