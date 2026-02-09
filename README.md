@@ -10,7 +10,7 @@
 
 - [Coming Soon](https://www.youtube.com/)
 
-<h2> Certifications</h2>
+<h2>📃 Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/4c5ce5c4-2818-4866-b5af-892276a182a0/public_url)
 - [ISC2 CC](https://www.credly.com/badges/1dcaba2b-d118-41a1-9f4c-9e9b020a6b8e/public_url)
