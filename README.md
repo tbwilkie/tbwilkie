@@ -1,4 +1,4 @@
-<h1>Hi, I'm Thomas! <br/><a href="https://www.linkedin.com/in/thomaswilkieusmc/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Thomas! <br/><a href="https://www.linkedin.com/in/thomaswilkieusmc/" target="_blank" rel="noopener noreferrer">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
