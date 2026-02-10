@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/tbwilkie/LABURL)
+  - [Active Directory Home Lab](https://github.com/tbwilkie/ActiveDirectoryHomeLab)
   - [Cybersecurity Home Lab - SOC in Azure Cloud w/ MS Sentinel](https://github.com/tbwilkie/LABURL))
 
 
