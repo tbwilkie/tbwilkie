@@ -2,12 +2,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Splunk Enterprise Home Lab](https://github.com/tbwilkie/Splunk)
   - [Active Directory Home Lab](https://github.com/tbwilkie/ActiveDirectoryHomeLab)
   - [Cybersecurity Home Lab - SOC in Azure Cloud w/ MS Sentinel](https://github.com/tbwilkie/LABURL))
 
 
 <h2>📺 Popular YouTube Videos</h2>
 
+- [Splunk Demo](https://www.youtube.com/watch?v=1g3A_Dg1Sng)
 - [Active Directory Demo](https://youtu.be/yPUKnArW0NQ)
 
 <h2>📃 Certifications</h2>
