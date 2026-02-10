@@ -4,7 +4,7 @@
 
   - [Splunk Enterprise Home Lab](https://github.com/tbwilkie/Splunk)
   - [Active Directory Home Lab](https://github.com/tbwilkie/ActiveDirectoryHomeLab)
-  - [Cybersecurity Home Lab - SOC in Azure Cloud w/ MS Sentinel](https://www.linkedin.com/in/thomaswilkieusmc/details/projects/)
+  - [Cloud Security Home Lab - SOC in Azure Cloud w/ MS Sentinel](https://www.linkedin.com/in/thomaswilkieusmc/details/projects/)
 
 
 <h2>📺 Popular YouTube Videos</h2>
