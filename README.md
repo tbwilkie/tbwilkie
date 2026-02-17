@@ -1,6 +1,6 @@
-<h1>Hi, I'm Thomas! <br/><a href="https://www.linkedin.com/in/thomaswilkieusmc/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Thomas! <br/><a href="https://www.linkedin.com/in/thomaswilkieusmc/">IT: Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT: Cybersecurity Projects:</h2>
 
   - [Splunk Enterprise Home Lab](https://github.com/tbwilkie/Splunk)
   - [Active Directory Home Lab](https://github.com/tbwilkie/ActiveDirectoryHomeLab)
